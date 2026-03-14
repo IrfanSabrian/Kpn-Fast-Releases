@@ -1,1 +1,3 @@
-# Kpn-Fast-Releases
+# Kpn-Fast Releases
+
+Repository untuk menyimpan file release `.exe` KPN FAST.
